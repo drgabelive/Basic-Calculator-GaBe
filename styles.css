@@ -52,3 +52,7 @@ form .display input{
 form input.equal{
     width: 120px;
 }
+
+form input.operate{
+    color: yellowgreen;
+}
