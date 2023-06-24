@@ -38,6 +38,7 @@ form .display {
     display: flex;
     justify-content: flex-end;
     margin: 20px 0;
+    background-color:aqua;
 }
 
 form .display input{
@@ -45,5 +46,9 @@ form .display input{
     flex: 1;
     font-size: 40px;
     box-shadow: none;
-    
+  
+}
+
+form input.equal{
+    width: 120px;
 }
